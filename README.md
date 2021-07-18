@@ -17,7 +17,7 @@ Autor: [ANDRE FELIPE]((https://github.com/andrephellipe))
 
 ### Passos para reproduzir
 
-Execute o `com.dio.live.LiveApplication` classe
+Execute a classe `com.dio.live.LiveApplication` 
 
 ![Gradle bootrun](./screenshots/bootrun.png)
 
