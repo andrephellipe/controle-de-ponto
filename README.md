@@ -1,6 +1,6 @@
 # DIO-santander-java-ponto-acesso
 
-Este projeto faz parte do **Santander bootcamp** oferecido pela plataforma **Digital Innovation One**.
+Este projeto faz parte do **Santander bootcamp** oferecido pela plataforma **Digital Innovation One**. <br> Trata-se de um controle de registro de pontos desenvolvido para empresas.
 
 Autor: [ANDRE FELIPE]((https://github.com/andrephellipe))
 
